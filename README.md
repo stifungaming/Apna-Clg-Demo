@@ -1,3 +1,3 @@
 # Apna-Clg-Demo
 First Repository
-author-rohit
+Author-Rohit
